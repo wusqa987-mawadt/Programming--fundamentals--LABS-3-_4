@@ -1,1 +1,0 @@
-cin >> age >> pay >> section;
